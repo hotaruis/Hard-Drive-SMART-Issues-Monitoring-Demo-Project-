@@ -44,7 +44,14 @@ This is not intended as a predictive failure model but as a **demonstration of a
 - **Google Apps Script**  
 - **Kaggle dataset (Q4 2018, simplified)**
 
-### Google Apps Script view  
+## Screenshots
+
+### 1. Main table view  
+Shows the dataset structure with serial numbers, models, aggregated SMART issue counts, derived metrics, and event dates.  
+
+![screenshot-main](3.PNG)  
+
+### 2. Google Apps Script view  
 Shows custom functions created in the Google Apps Script editor to automate calculations and simulate real workflow logic within the spreadsheet.  
 
 ![screenshot-apps-script](1.PNG)  
